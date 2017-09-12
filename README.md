@@ -94,6 +94,11 @@ Yes, I strongly encourage it. It falls directly in line with a quintessential so
 Yes, in the same way that everyone is a dumbed down version of Einstein, so too is this a dumbed down version of literally everything.
 
 
+> This doesn't seem very obfuscated, could you make it more difficult to read? I don't like knowing what is actually going on.
+**— [@michaelghinrichs](https://github.com/michaelghinrichs)**
+
+[ awaiting response ]
+
 > Why doesn't subscribe just take a single function, and allow the user to just `compose(listenerFn, readFn)` themselves?
 
 **— [@evinism](https://github.com/evinism)**
